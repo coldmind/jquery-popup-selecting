@@ -1,0 +1,33 @@
+{
+  "name": "popup-selecting",
+  "version": "1.0.0",
+  "title": "jQuery Popup Selecting",
+  "description": "Plugin creates dialogs with selectable elements (elements in container will be selectable). Navigation is performed by using mouse and keyboard.",
+  "keywords": [
+    "jquery",
+    "plugin",
+    "select",
+    "selecting",
+    "popup",
+    "pop-up",
+    "dialog",
+    "keyboard"
+  ],
+  "homepage": "https://github.com/coldmind/jquery-popup-selecting",
+  "author": {
+    "name": "Andriy Sokolovskiy",
+    "url": "http://github.com/coldmind/"
+  },
+  "licenses" : [ 
+    {
+      "type" : "MIT",
+      "url"  : "https://github.com/jquery/jquery/blob/master/MIT-LICENSE.txt"
+    }
+  ],
+  "bugs": "https://github.com/coldmind/jquery-popup-selecting/issues",
+  "dependencies": {
+    "jquery": ">=1.5"
+  },
+  "docs": "https://github.com/coldmind/jquery-tunable-radiobox/README.md",
+  "demo": "http://colmind.github.com/jquery-popup-selecting"
+}

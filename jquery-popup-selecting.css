@@ -1,0 +1,25 @@
+#popselect {
+    display: none;
+    width : 150px;
+    background: #5C5C5C;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+#popselect span {
+    padding: 1px 6px 2px 6px;
+    color : #FFF;
+    margin: 1px 4px 1px;
+}
+
+#popselect .selected {
+    color: red;
+    background: #3B3A3A;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
