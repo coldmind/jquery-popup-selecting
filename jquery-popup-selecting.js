@@ -47,6 +47,14 @@ author :  Andriy Sokolovskiy (sokandpal@yandex.ru)
                 });
             };
 
+            // close menu if click was outside
+            $('html').click(function() {
+                that.hide();
+            });
+            that.click(function(event) {
+                event.stopPropagation();
+            });
+
             // first selected as default
             that.children(":first").addClass('selected');
 

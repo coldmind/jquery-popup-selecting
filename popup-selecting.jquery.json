@@ -1,6 +1,6 @@
 {
   "name": "popup-selecting",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "title": "jQuery Popup Selecting",
   "description": "Plugin creates dialogs with selectable elements (elements in container will be selectable). Navigation is performed by using mouse and keyboard.",
   "keywords": [
