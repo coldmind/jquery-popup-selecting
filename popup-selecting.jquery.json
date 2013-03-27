@@ -29,5 +29,5 @@
     "jquery": ">=1.5"
   },
   "docs": "https://github.com/coldmind/jquery-tunable-radiobox/README.md",
-  "demo": "http://colmind.github.com/jquery-popup-selecting"
+  "demo": "http://coldmind.github.com/jquery-popup-selecting"
 }
